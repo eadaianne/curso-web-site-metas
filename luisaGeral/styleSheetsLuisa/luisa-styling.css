@@ -1,0 +1,21 @@
+body{
+    background-color: lightpink;
+    margin-top: 50px;
+    text-align: center;
+}
+
+img {
+    width: 250px;
+    height: 250px;
+    border-radius: 125px;
+}
+
+h1 {
+    color: white;
+
+}
+
+p {
+    color: white;
+}
+
